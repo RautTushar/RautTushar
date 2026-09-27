@@ -36,23 +36,6 @@ https://assetsrealty.cc.cd/
 
 ---
 
-### 🚗 Om Sai R.T.O Consultancy
-
-A Maharashtra-focused RTO service assistance platform designed to simplify RTO-related services and application processes.
-
-**Built with:**
-
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-* Supabase
-* PostgreSQL
-* Vercel
-
-🌐 **Website:**
-https://omsairto.de5.net/
-
 🔧 The project includes a public-facing application platform and an administration system for managing applications and services.
 
 ---
