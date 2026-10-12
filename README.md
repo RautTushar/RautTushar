@@ -4,7 +4,7 @@
 
 I’m a developer who enjoys turning ideas into real-world applications. I work across **web, mobile, backend, and AI**, with a focus on building practical, scalable, and user-friendly software.
 
-* 🚀 Co-Founder & Developer at **Assets Realty**
+* 🚀 Developer of **Assets Realty**
 * 📱 Developed the **Assets Realty mobile application** using Flutter
 * 🌐 Built web applications using **React.js and Next.js**
 * 🤖 Completed an **Agentic AI internship** focused on Python, FastAPI, Prompt Engineering, LangChain, RAG, Agents & LangGraph
@@ -17,7 +17,7 @@ I’m a developer who enjoys turning ideas into real-world applications. I work 
 
 ### 🏠 Assets Realty
 
-**Co-Founder & Developer**
+**Developer**
 
 Assets Realty is a real-estate platform designed to help users discover and manage property-related services.
 
