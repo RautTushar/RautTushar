@@ -1,5 +1,5 @@
 # 👋 Hi,
-[![Tushar](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+am+Tushar;Flutter+%26+AI+Developer;![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white))](https://git.io/typing-svg)
+[![Tushar](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+am+Tushar;Flutter+%26+AI+Developer;![C](https://Hi.Im.Tushar.Raut))](https://git.io/typing-svg)
 
 ### Full-Stack Developer | Flutter Developer | Agentic AI Enthusiast
 
