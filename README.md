@@ -215,8 +215,7 @@ Responsible for developing the company's mobile application and contributing to 
        src="https://raw.githubusercontent.com/RautTushar/RautTushar/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RautTushar/RautTushar/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RautTushar/aliasgRautTusharharfathikhah/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RautTushar/RautTushar/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RautTushar/RautTushar/pacman-output/galaga-contribution-graph.svg" alt="Pacman Contribution Graph" />
+</p>
