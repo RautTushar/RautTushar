@@ -1,5 +1,5 @@
 # 👋 Hi,
-[![Tushar](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+am+Tushar;Flutter+%26+AI+Developer;![C](https://Hi.Im.Tushar.Raut))](https://git.io/typing-svg)
+[![Tushar](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+Tushar;)](https://git.io/typing-svg)
 
 ### Full-Stack Developer | Flutter Developer | Agentic AI Enthusiast
 
@@ -64,30 +64,222 @@ https://github.com/RautTushar/internship_Agentic_AI
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+<div style="display: flex; align-items: flex-start; align: center">
+       <table align="center">
+        <tr>
+            <td align="center" width="96">
+                <a href="#macropower-tech">
+                    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+                </a>
+                <br>Python
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="GitLab" />
+                <br>Java
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="GitLab" />
+                <br>Go
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="GitLab" />
+                <br>C
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+                <br>C++
+            </td>
+      </table>      
+
+</div>
+
+
 
 ### Frontend & Mobile
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+            <td align="center" width="96">
+                <a href="#macropower-tech">
+                    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+                </a>
+                <br>React
+            </td>
+             <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=nextjs"                   width="48" height="48" alt="NextJS" />
+                      </a>
+             <br>NextJS
+            </td>
+            <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=flutter" 
+                width="48" height="48" alt="React"  />
+                      </a>
+             <br>flutter
+            </td>
+             <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=html" 
+                width="48" height="48" alt="HTML"  />
+                      </a>
+             <br>HTML
+             </td>
+             <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=css" 
+                width="48" height="48" alt="css"  />
+                      </a>
+             <br>CSS3
+            </td>
+            <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=tailwind" 
+                width="48" height="48" alt="tailwind"  />
+                      </a>
+             <br>Tailwind CSS
+            </td>
+    </table> 
+</div>   
 
 ### Backend, Database & Cloud
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+            <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=fastapi" 
+                width="48" height="48" alt="fastapi"  />
+                      </a>
+             <br>FastAPI
+            </td>
+            <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=postgres" 
+                width="48" height="48" alt="postgres"  />
+                      </a>
+             <br>PostgreSQL
+            </td>
+            <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=supabase" 
+                width="48" height="48" alt="supabase"  />
+                      </a>
+             <br>Supabase
+            </td>
+            <td align="center" width="96">
+                <a href="#macropower-tech">
+                    <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Python" />
+                </a>
+                <br>Docker
+            </td>
+            <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=vercel" 
+                width="48" height="48" alt="vercel"  />
+                      </a>
+             <br>Vercel
+    </table>
+</div>
+
+### Tools & Environment
+
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+            <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=git" 
+                width="48" height="48" alt="git"  />
+                      </a>
+             <br>Git
+            </td>
+            <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=github" 
+                width="48" height="48" alt="github"  />
+                      </a>
+             <br>Github
+            </td>
+            <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=vscode" 
+                width="48" height="48" alt="vscode"  />
+                      </a>
+             <br>vscode
+            </td>
+            <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=vim" 
+                width="48" height="48" alt="vim"  />
+                      </a>
+             <br>Vim
+            </td>
+            <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=linux" 
+                width="48" height="48" alt="linux"  />
+                      </a>
+             <br>Linux
+            </td>
+            <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=arch" 
+                width="48" height="48" alt="vercel"  />
+                      </a>
+             <br>Arch
+             <td align="center" width="96">
+                  <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=redhat" 
+                width="48" height="48" alt="redhat"  />
+                      </a>
+             <br>Redhat
+            </td>
+    </table>
+</div>
+
+### AI & Intelligent Systems
+
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+        <td align="center" width="96">
+         <a href="https://go-skill-icons.netlify.app">
+         <img src="https://go-skill-icons.vercel.app/api/icons?i=deepseek" 
+         width="48" height="48" alt="deepseek" />
+         </a>
+         <br>DeepSeek
+         </td>
+         <td align="center" width="96">
+         <a href="https://go-skill-icons.netlify.app">
+         <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" 
+         width="48" height="48" alt="gemini" />
+         </a>
+         <br>Gemini
+         </td>
+         <td align="center" width="96">
+         <a href="https://go-skill-icons.netlify.app">
+         <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" 
+         width="48" height="48" alt="claude" />
+         </a>
+         <br>Claude
+         </td>
+         <td align="center" width="96">
+         <a href="https://go-skill-icons.netlify.app">
+         <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" 
+         width="48" height="48" alt="chatgpt" />
+         </a>
+         <br>ChatGPT
+         </td>
+    </table>
+</div> 
+
 
 ### AI / LLM
 
@@ -95,30 +287,6 @@ https://github.com/RautTushar/internship_Agentic_AI
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge)
-
----
-
-## 🤖 Agentic AI Skills
-
-My recent AI work has focused on building applications around LLMs and agentic workflows.
-
-```text
-Python
-   ↓
-FastAPI
-   ↓
-Prompt Engineering
-   ↓
-LangChain
-   ↓
-RAG
-   ↓
-AI Agents
-   ↓
-LangGraph
-```
-
-I’m particularly interested in building systems where LLMs can **retrieve information, reason over context, use tools, and execute multi-step workflows**.
 
 ---
 
@@ -180,14 +348,35 @@ Responsible for developing the company's mobile application and contributing to 
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/RautTushar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.rauttech.assets">
-    <img src="https://img.shields.io/badge/Assets%20Realty-Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white"/>
-  </a>
-</p>
+<div style="display: flex; align-items: flex-start; align: center">
+    <table>
+        <tr>
+        <td align="center">
+         
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tushar-raut-67347a315//" target="_blank">
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"
+    width="48"
+    height="48"
+    alt="LinkedIn"
+  />
+</a>
+         <br>Linkedin
+         </td>
+         <td align="center">
+         
+<a href="mailto:traut632021@gmail.com">
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=gmail"
+    width="48"
+    height="48"
+    alt="Gmail"
+  />
+</a>
+         <br>Mail
+         </td>
+    </table>
+</div> 
 
 ---
 
