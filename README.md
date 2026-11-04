@@ -167,9 +167,14 @@ Responsible for developing the company's mobile application and contributing to 
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RautTushar/RautTushar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/RautTushar/RautTushar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/RautTushar/RautTushar/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake"
+       src="https://raw.githubusercontent.com/RautTushar/RautTushar/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -204,16 +209,6 @@ Responsible for developing the company's mobile application and contributing to 
 > **Build real products. Keep learning. Solve real problems.**
 
 ⭐ Feel free to explore my repositories and follow my development journey.
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/RautTushar/RautTushar/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/RautTushar/RautTushar/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake"
-       src="https://raw.githubusercontent.com/RautTushar/RautTushar/output/github-contribution-grid-snake.svg" />
-</picture>
 
 
 <p align="center">
