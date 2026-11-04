@@ -204,3 +204,19 @@ Responsible for developing the company's mobile application and contributing to 
 > **Build real products. Keep learning. Solve real problems.**
 
 ⭐ Feel free to explore my repositories and follow my development journey.
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/RautTushar/RautTushar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/RautTushar/RautTushar/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake"
+       src="https://raw.githubusercontent.com/RautTushar/RautTushar/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RautTushar/RautTushar/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RautTushar/aliasgRautTusharharfathikhah/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RautTushar/RautTushar/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
